@@ -24,7 +24,7 @@ O programa recebe o nome e o nível de XP de um herói, e retorna uma mensagem c
 
 ## 🛠 Tecnologias utilizadas
 
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) (puro)
+- [JavaScript] (puro)
 
 ---
 
@@ -33,11 +33,8 @@ O programa recebe o nome e o nível de XP de um herói, e retorna uma mensagem c
 Você pode executar o código localmente da seguinte forma:
 
 1. Copie o conteúdo do projeto para um arquivo com extensão `.js` (ex: `heroi.js`)
-2. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina
-3. Execute o código no terminal com o seguinte comando:
-
-```bash
-node heroi.js
+2. Certifique-se de ter o [Node.js] instalado na sua máquina
+3. Execute o código no terminal com o seguinte comando: node heroi.js
 
 
 ## 🧠 O que eu aprendi
